@@ -27,7 +27,7 @@ body{
 }
 
 #under-line{
-    height: 4px;
+    height: 5px;
     background-color: red;
     position: absolute;
     width: 60px;
@@ -41,6 +41,10 @@ body{
     display: flex;
     justify-content: space-between;
     padding: 1em;
+}
+
+.task-done-parent{
+    background-color: antiquewhite;
 }
 
 .task-done{
